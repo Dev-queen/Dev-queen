@@ -27,11 +27,13 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-queen&layout=compact&show_icons=true&theme=radical)](https://github.com/Dev-queen/github-readme-stats)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-![Youmna's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-queen&show_icons=true&theme=radical)
+<!-- ![Youmna's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-queen&show_icons=true&theme=radical)
+ -->
+<div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dev-queen&show_icons=true&theme=radical" alt="dev-queen" />
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-queen&show_icons=true&theme=radical" alt="dev-queen" />
+                                                                                                                                   
+</div>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Dev-queen&show_icons=true&theme=radical alt="dev-queen" /></p>
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-queen&show_icons=true&theme=radical" alt="dev-queen" /></p>
 
