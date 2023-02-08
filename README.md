@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently learning **MERN Stack**
 
-- 🙂 I’m looking to collaborate on **Frontend-projects**
+- 🙂 I’m looking to collaborate on **Frontend and backend projects**
 
-- 🤝 I’m looking for help with **Problem-solving**
-
-- 💬 Ask me about **C / C++ /JS /CSS**
+- 🤺 Currently working on my Problem-solving skills 
+<!-- - , you can find me on  -->
+- 💬 Ask me about **C / C++ /JS /sass/Nodejs/Express/python**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
