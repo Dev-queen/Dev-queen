@@ -45,5 +45,7 @@
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-queen&show_icons=true&theme=radical" alt="dev-queen" />
                                                                                                                                    
 </div>
+<h4>My contributions being eaten by a Snake .....</h4>
 
 
+![snake gif](https://github.com/Dev-queen/Dev-queen/blob/output/github-contribution-grid-snake.gif)
