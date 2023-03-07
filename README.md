@@ -4,7 +4,8 @@
 <h3 align="center">A Computer-engineering student ,who is passionate about coding and innovation.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-queen&label=Profile%20views&color=0e75b6&style=flat" alt="dev-queen" /> </p>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/github/followers/Dev-queen.svg?style=social&label=Follow&maxAge=2592000" alt="my profile" /> </a> 
+
+<p><a href="https://github.com/Dev-queen" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/github/followers/Dev-queen.svg?style=social&label=Follow&maxAge=2592000" alt="my profile" /> </a> </p>
 
 - 🔭 I’m currently learning **MERN Stack**
 
