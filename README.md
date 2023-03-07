@@ -4,6 +4,7 @@
 <h3 align="center">A Computer-engineering student ,who is passionate about coding and innovation.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-queen&label=Profile%20views&color=0e75b6&style=flat" alt="dev-queen" /> </p>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/github/followers/Dev-queen.svg?style=social&label=Follow&maxAge=2592000" alt="my profile" /> </a> 
 
 - 🔭 I’m currently learning **MERN Stack**
 
@@ -19,8 +20,10 @@
 <a href="https://dribbble.com/stardesigner23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://dribbble.com/stardesigner23" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/y_ahmed0895" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/y_ahmed0895" height="30" width="40" /></a>
 </p>
-
 <hr>
+
+
+
 
 <a href="mailto: megaengineer2023@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="https://www.hackerrank.com/y_ahmed0895"  /></a> <a href="https://www.linkedin.com/in/youmna-yasser-90434b245/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"  /></a>
 
