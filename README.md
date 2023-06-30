@@ -1,7 +1,7 @@
 ![Black   Blue Modern Geometric Technology Youtube Intro](https://user-images.githubusercontent.com/113784291/216832568-012b6162-7386-4baa-8ab9-3cbe30961d14.gif)
 
 <h1 align="center">Hi there🙂, I'm Youmna</h1>
-<h3 align="center">A Computer-engineering student ,who is passionate about coding and innovation.</h3>
+<h3 align="center">A Computer-engineering student,who is passionate about coding and innovation.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-queen&label=Profile%20views&color=0e75b6&style=flat" alt="dev-queen" /> </p>
 
@@ -55,7 +55,7 @@
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-queen&show_icons=true&theme=radical" alt="dev-queen" />
                                                                                                                                    
 </div>
-<h4>My contributions being eaten by a Snake .....</h4>
+<h3>My contributions being eaten by a Snake 🐍 .....</h3>
 
 
 ![snake gif](https://github.com/Dev-queen/Dev-queen/blob/output/github-contribution-grid-snake.gif)
