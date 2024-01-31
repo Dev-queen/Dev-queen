@@ -45,14 +45,23 @@
            
  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"  alt="bootstrap" width="40" height="40"/> </a><a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>    
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-queen&layout=compact&show_icons=true&theme=radical)](https://github.com/Dev-queen/github-readme-stats)
+<!--[![Top Langs]-->
+<img alt ="top langs" align ="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-queen&layout=compact&show_icons=true&theme=radical"/>
+<!--(https://github.com/Dev-queen/github-readme-stats)-->
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<!--[![Dev-queen's GitHub stats]-->
+
+<img alt ="Dev-queen's GitHub stats" align ="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=Dev-queen&show_icons=true&theme=tokyonight"/>
+
+<!--(https://github.com/Dev-queen/github-readme-stats)-->
 
 <!-- ![Youmna's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-queen&show_icons=true&theme=radical)
  -->
 <div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dev-queen&show_icons=true&theme=radical" alt="dev-queen" />
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-queen&show_icons=true&theme=radical" alt="dev-queen" />
+<!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dev-queen&show_icons=true&theme=radical" alt="dev-queen stats" /> -->
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-queen&show_icons=true&theme=radical" alt="dev-queen stats" />
                                                                                                                                    
 </div>
 <h3>My contributions being eaten by a Snake 🐍 .....</h3>
