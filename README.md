@@ -50,9 +50,11 @@
 
 <img alt ="Dev-queen's GitHub stats" align ="left" width="45%"  src="https://github-readme-stats.vercel.app/api?username=Dev-queen&show_icons=true&theme=tokyonight"/>
 
+<img height="180em" align ="middle"  src="https://github-readme-streak-stats.herokuapp.com/?user=dev-queen&show_icons=true&theme=radical" alt="dev-queen stats" />
+
 <!--[![Top Langs]-->
 
-<img alt ="top langs" align ="left"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-queen&layout=compact&show_icons=true&theme=radical"/>
+<img alt ="top langs" align ="left"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-queen&layout=donut-vertical&show_icons=true&theme=radical"/>
 <!--(https://github.com/Dev-queen/github-readme-stats)-->
 
 
@@ -63,9 +65,9 @@
  -->
 
 <!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dev-queen&show_icons=true&theme=radical" alt="dev-queen stats" /> -->
-<img height="180em" align ="middle"  src="https://github-readme-streak-stats.herokuapp.com/?user=dev-queen&show_icons=true&theme=radical" alt="dev-queen stats" />
                                                                                                                                    
-<h3>My contributions being eaten by a Snake 🐍 .....</h3>
+<br><br><br><br><br>
+<span><h3>My contributions being eaten by a Snake 🐍 .....</h3></span>
 
 
 ![snake gif](https://github.com/Dev-queen/Dev-queen/blob/output/github-contribution-grid-snake.gif)
