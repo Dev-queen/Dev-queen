@@ -70,8 +70,4 @@
 <p></p>
 <p></p>
 <p></p>
-<p><h3>My contributions being eaten by a Snake 🐍 .....</h3></p>
 
-
-![snake gif](https://github.com/Dev-queen/Dev-queen/blob/output/github-contribution-grid-snake.gif)
--->
